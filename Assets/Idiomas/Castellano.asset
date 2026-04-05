@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f954585b58513fb43b5c5fd2bc02ffe7, type: 3}
+  m_Name: Castellano
+  m_EditorClassIdentifier: Assembly-CSharp::LanguageScriptable
+  bienvenidoString: Bienvenido a mi juego
+  "configuraci\xF3nString": "Configuraci\xF3n"
+  audioString: Ajustes de Sonido
+  videoString: "Ajustes de V\xEDdeo"
